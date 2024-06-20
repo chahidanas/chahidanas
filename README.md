@@ -33,7 +33,7 @@ to wake up**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=webstorm,anaconda,androidstudio,arduino,bash,django,docker,clion,emacs,php,phpstorm,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=webstorm,anaconda,androidstudio,arduino,bash,django,docker,emacs,clion,php,phpstorm,postgres,postman" />
     <img src="https://skillicons.dev/icons?i=vite,nodejs,java,python,pycharm,ubuntu,javascript,c,cpp,java,nextjs" /><br>
 </div>
 
