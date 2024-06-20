@@ -42,11 +42,11 @@ to wake up**
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <br/>
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahidanas&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chahidanas/chahidanas/output/github-contribution-grid-snake.svg" />
 
-<br/><br/>
+<br/>
 </div>
 
 <hr/>
