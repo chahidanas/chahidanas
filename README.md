@@ -23,7 +23,7 @@ to wake up**
 
 <div align="center"> 
   <a href="https://linkedin.com/in/chahidanas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -44,9 +44,9 @@ to wake up**
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahidanas&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chahidanas/chahidanas/output/github-contribution-grid-snake.svg" />
-
-<br/>
+<br/><br/>
 </div>
 
 <hr/>
