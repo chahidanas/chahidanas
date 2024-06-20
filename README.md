@@ -9,17 +9,18 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a finance manager app**
- 
- 🌱 I’m currently learning **Ruby, AWS, Go**
+
+🔭 I’m currently working on **a finance manager app**
+
+🌱 I’m currently learning **Ruby, AWS, Go**
 
 💬 Ask me about **Node.js, React, Django... or anything [here](https://github.com/chahidanas/chahidanas/issues)**
 
-⚡ Fun fact **The first alarm clock could only ring at 4 am, as it was the only time its inventor, Levi Hutchins, wanted to wake up**
+⚡ Fun fact **The first alarm clock could only ring at 4 am, as it was the only time its inventor, Levi Hutchins, wanted
+to wake up**
 
  </div>
- 
+
 <div align="center"> 
   <a href="https://linkedin.com/in/chahidanas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,7 +28,7 @@
 </div>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -41,10 +42,11 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahidanas&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chahidanas/chahidanas/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+<br/><br/>
 </div>
 
 <hr/>
@@ -52,13 +54,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img height=162 src="https://github-readme-streaks-stats.vercel.app/?user=chahidanas&theme=react&border_radius=10" alt="streak stats"/>
-  <img height=162 src="https://github-readme-stats.vercel.app/api?username=chahidanas&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahidanas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=chahidanas&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-alpha.vercel.app?user=chahidanas&theme=vue-dark&hide_border=true&border_radius=10&card_width=407&card_height=170" alt="GitHub Streak" /></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <hr/>
 
